@@ -1,0 +1,47 @@
+button :hover {
+    transform: scale(1.1);
+    box-shadow: 3px 3px;
+}
+
+.buttons {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h4 {
+
+    display: inline;
+}
+
+.scoreboard {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#rock {
+    margin-right: 30px;
+}
+
+#paper {
+    margin-right: 30px;
+}
+
+h3 {
+    text-align: center;
+}
