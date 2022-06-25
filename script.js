@@ -110,13 +110,13 @@ function resultRemove() {
 function image(choice) {
     let newChoice = choice.toLowerCase();
     if (newChoice === "rock") {
-        return "https://harshil1712.github.io/stone-paper-scissor/stone.png";
+        return "images/rock.png";
     }
     else if (newChoice === "paper") {
-        return "https://lh3.googleusercontent.com/proxy/ELtF5uMyTi1THfFy2CTeh1DdlHPTC26YAoq3Dk6RqO7uGZySmXrjj1l7wLICVV6d0kcTMTEWsRnvP3paAroSHrnawoyy870ApQPI6EYRd1S-WekWOf-yI5UTGkpNCCzsiSSmm0T5qbbO-ZIEDGk2xhTD-Xgx";
+        return "images/paper.jpg";
     }
     else {
-        return "https://assets.onlinelabels.com/images/clip-art/nicubunu/nicubunu_Scissors.png";
+        return "images/scissors.webp";
     }
 }
 
